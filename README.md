@@ -3,7 +3,7 @@
 
 # Hi there, I'm Zaid 👋
 
-🎓 **BTech IT student **  
+🎓 **BTech IT student**  
 💻 Passionate about **software development**, **AI**, and **problem-solving**
 
 ---
