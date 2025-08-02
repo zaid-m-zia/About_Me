@@ -4,7 +4,7 @@
 # Hi there, I'm Zaid 👋
 
 🎓 **BTech IT student**  
-💻 Passionate about **software development**, **AI**, and **problem-solving**
+💻 Passionate about **software development**, **AI**,**Ai Automation** and **problem-solving**
 
 ---
 
